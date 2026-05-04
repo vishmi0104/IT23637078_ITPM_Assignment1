@@ -12,10 +12,10 @@ https://github.com/vishmi0104/IT23637078_ITPM_Assignment1
 
 IT3040_Assignment_1/
 
-- test_automation.py           → Playwright automation script  
-- IT - Test cases.xlsx → Excel file with test cases & results  
-- requirements.txt             → Python dependencies  
-- README.md                    → Project documentation  
+- IT23637078_test_automation.py           → Playwright automation script  
+- IT23637078 - Test cases.xlsx → Excel file with test cases & results  
+- IT23637078_requirements.txt             → Python dependencies  
+- IT223637078_README.md                    → Project documentation  
 - venv/ (optional)             → Virtual environment (not required)
 
 ---
@@ -40,7 +40,7 @@ IT3040_Assignment_1/
    playwright install  
 
 4. Run the automation script  
-   python test_automation.py --excel "IT - Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator"  
+   python test_automation.py --excel "IT23637078 - Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator"  
 
 ---
 
@@ -81,7 +81,7 @@ IT3040_Assignment_1/
 
 ##  Student Information
 
-- Student ID: IT
+- Student ID: IT23637078
 - Module: IT3040  
 - Assignment: Assignment 1 (Option 1)  
 
