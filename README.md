@@ -4,7 +4,7 @@
 Automated Testing for Singlish to Sinhala Transliteration System
 
 ##  Repository
-
+https://github.com/vishmi0104/IT23637078_ITPM_Assignment1
 
 ---
 
